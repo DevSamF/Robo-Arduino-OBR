@@ -27,5 +27,10 @@ Este projeto foi desenvolvido pela equipe OverExplode como parte da participaç�
 
 ## Licença
 
-[Informe a licença do projeto, caso aplique.]
+Este projeto é distribuído sob a Licença Creative Commons Atribuição-NãoComercial 4.0 Internacional (CC BY-NC 4.0). 
+
+Você pode utilizar o código deste repositório para projetos e competições não comerciais, desde que dê crédito ao autor original e não utilize o código para fins comerciais.
+
+Para mais detalhes sobre a Licença Creative Commons Atribuição-NãoComercial 4.0 Internacional, consulte o arquivo [LICENSE](LICENSE) ou visite o seguinte link:
+https://creativecommons.org/licenses/by-nc/4.0/deed.pt_BR
 
