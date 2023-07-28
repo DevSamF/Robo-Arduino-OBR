@@ -1,0 +1,34 @@
+Licença Creative Commons Atribuição-NãoComercial 4.0 Internacional (CC BY-NC 4.0)
+
+Este é um acordo legal entre você e o autor original do código-fonte, referente ao uso do código neste repositório.
+
+Ao utilizar o código neste repositório, você concorda com os termos desta licença.
+
+1. Definições
+   a. "Código": refere-se ao código-fonte, arquivos e outros conteúdos fornecidos neste repositório.
+   b. "Autor": refere-se ao criador original do código neste repositório.
+   c. "Você": refere-se à pessoa ou entidade que utiliza o código neste repositório, seja para projetos ou participação em competições.
+
+2. Licença
+   O código neste repositório está licenciado sob a Licença Creative Commons Atribuição-NãoComercial 4.0 Internacional (CC BY-NC 4.0).
+
+3. Permissões
+   a. Você tem permissão para compartilhar o código através da cópia e redistribuição em qualquer suporte ou formato.
+   b. Você tem permissão para adaptar o código, criando trabalhos derivados a partir dele.
+
+4. Atribuição
+   a. Ao utilizar o código, você deve dar crédito apropriado ao autor, fornecendo uma atribuição clara e visível junto ao código ou no projeto que utiliza o código.
+   b. A atribuição deve incluir o nome do autor original e um link para o repositório original do código neste GitHub.
+
+5. NãoComercial
+   a. Você não tem permissão para utilizar o código para fins comerciais.
+   b. O uso comercial do código está estritamente proibido sob esta licença.
+
+6. Isenção de Responsabilidade
+   O código neste repositório é fornecido "no estado em que se encontra", sem garantias ou condições de qualquer tipo, expressas ou implícitas.
+
+7. Aceitação
+   A utilização do código neste repositório implica na sua aceitação dos termos desta licença.
+
+Para detalhes completos da Licença Creative Commons Atribuição-NãoComercial 4.0 Internacional, consulte:
+https://creativecommons.org/licenses/by-nc/4.0/deed.pt_BR
