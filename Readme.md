@@ -11,16 +11,7 @@ O objetivo deste projeto é criar um robô capaz de realizar tarefas específica
 - Plataforma: Arduino Mega 2560
 - Sensores: [Sensore de refletância, Sensores de cor, Sensores giroscópio, Sensor Ultrassônico]
 - Atuadores: [Motores DC]
-
-## Instruções de Uso
-Você pode usar o código e modificá-lo para adaptar da melhor forma para o seu robô.
-O código está bem comentado. Você só precisa usar as portas do jeito que está no início do código ou mudá-las para a porta que você desejar.
-
-
-## Contribuição
-
-Contribuições para a melhoria deste projeto são bem-vindas. Se você quiser contribuir, abra um "pull request" explicando suas alterações.
-
+  
 ## Créditos
 
 Este projeto foi desenvolvido pela equipe OverExplode como parte da participação na Olimpíada Brasileira de Robótica.
